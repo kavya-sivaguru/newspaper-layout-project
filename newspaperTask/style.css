@@ -1,0 +1,101 @@
+.col-8{
+    background-image: url(images/pocket-watch.jpg);
+    background-size: 745px;
+    background-repeat: no-repeat;
+}
+#img1{
+    background-image: url(images/coffee.jpg);
+    background-size: cover;
+    position: relative;
+    right: 10px;
+    
+    }
+#img2{
+        background-image: url(images/paper.jpg);
+        background-size: cover;
+        position: relative;
+    right: 2.5px;
+        
+        }
+#img3{
+    background-image: url(images/change.jpg);
+    background-size: cover;
+    position: relative;
+    left: 5px;
+}
+#num1{
+    position: relative;
+    right: 10px;
+}   
+#num3{
+    position: relative;
+    left: 10px;
+} 
+#column2{
+    text-align: right;
+    }
+#last-column{
+    text-align: right;
+    position: relative;
+    top: 0px;
+}   
+#last-column1{
+    position: relative;
+    top: 0px;
+}    
+.col-6{
+    position: relative;
+    top: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+.row{
+    text-align: justify;
+}
+#row3{
+    text-align: center;
+}
+#red{
+    color: brown;
+}
+h4{
+    
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+#last-row{
+    margin-top: 30px;
+}
+#second-last-row{
+    margin-top: 30px;
+}
+hr{
+    background-color: black;
+}
+.page{
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    z-index: 1;
+    position: relative;
+    top: 280px;
+    left: 50px;
+    text-align: center;
+}
+.text{
+   
+    width: 200px;
+    height: 200px;
+    color: seashell;
+    position: relative;
+    top: 100px;
+}
+.boxes{
+    margin-left: 10px;
+    margin-right: 10px;
+}
