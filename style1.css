@@ -1,0 +1,84 @@
+#img{
+    background-image: url(justice.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#img1{
+    background-image: url(elephants.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#img2{
+    background-image: url(money.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.row{
+    text-align: justify;
+    }
+    .detail{
+        position: relative;
+        top: 30px;
+        font-style: italic;
+        font-weight: bold;
+    }
+    .page{
+        background-color: black;
+        color: white;
+        width: 60px;
+        height: 60px;
+        border-radius: 100px;
+        z-index: 1;
+        position: relative;
+        top: 200px;
+        left: 250px;
+        text-align: center;
+    }
+    .page1{
+        position: relative;
+        top: 200px;
+        left: 740px;
+    }
+    .page2{
+        position: relative;
+        top: 170px;
+        left: 270px;
+    }
+    .text{
+   
+        width: 200px;
+        height: 200px;
+        color: seashell;
+        position: relative;
+        top: 200px;
+        left: 120px;
+    }
+    h6{
+        color: brown;
+    }
+    h4{
+    
+        background-color: brown;
+        color: white;
+        text-align: center;
+        font-style: italic;
+        font-weight: bold;
+    }
+    hr{
+        background-color: black;
+    }
+    #last-column{
+        text-align: right;
+        position: relative;
+        top: 0px;
+    }   
+    #last-column1{
+        position: relative;
+        top: 0px;
+    } 
+    #column2{
+        text-align: right;
+        }
+    #last-row{
+            margin-top: 30px;
+        }
